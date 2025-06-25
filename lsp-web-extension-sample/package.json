@@ -53,7 +53,7 @@
 	},
 	"devDependencies": {
 		"@eslint/js": "^9.13.0",
-		"@stylistic/eslint-plugin": "^2.9.0",
+		"@stylistic/eslint-plugin": "^5.0.0",
 		"@vscode/test-web": "^0.0.51",
 		"eslint": "^9.13.0",
 		"path-browserify": "^1.0.1",
