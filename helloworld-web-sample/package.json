@@ -41,7 +41,7 @@
 		"@types/webpack-env": "^1.18.8",
 		"@vscode/test-web": "^0.0.66",
 		"assert": "^2.1.0",
-		"eslint": "^9.20.1",
+		"eslint": "^9.27.0",
 		"mocha": "^11.1.0",
 		"process": "^0.11.10",
 		"ts-loader": "^9.5.2",
