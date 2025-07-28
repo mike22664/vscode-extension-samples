@@ -36,7 +36,7 @@
     "@types/markdown-it": "^12.2.3",
     "@types/vscode-notebook-renderer": "^1.57.8",
     "@types/webpack-env": "^1.17.0",
-    "eslint": "^9.13.0",
+    "eslint": "^9.27.0",
     "markdown-it-emoji": "^2.0.2",
     "ts-loader": "^9.2.2",
     "typescript": "^5.7.2",
